@@ -19,6 +19,6 @@ ________________________________________________________________________
 
 step 1: open the auto_click.py.
 
-step 2: u need to equip the pickaxe move to the mining location
+step 2: u need to equip the pickaxe move to the mining location.
 
 step 3: run the code.
